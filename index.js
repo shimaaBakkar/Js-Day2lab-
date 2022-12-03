@@ -226,6 +226,19 @@ console.log('reversed array:', reversed);
 // Output: no
 
 
+// let str = prompt("input!");
+// let z = 0;
+// while (str[z] === 'z') {
+//   z++;
+// }
+
+// let o = z;
+// while (str[o] === 'o') {
+//   o++;
+// }
+
+// console.log(z * 2 === o - z ? "yes" : "no");
+
 
 
 
